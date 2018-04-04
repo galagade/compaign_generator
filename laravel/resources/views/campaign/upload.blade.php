@@ -49,15 +49,6 @@
 
 @push('scripts')
 <script src="{{ asset('la-assets/plugins/datatables/datatables.min.js') }}"></script>
-<script>
-$(function () {
-	
-	$("#user-add-form").validate({
-		
-	});
 
-	
-});
-</script>
 
 @endpush
