@@ -1,7 +1,7 @@
 # README #
 
 ### What is Compaigns Pack ###
-This is online system for compagin generator 
+This is online system for compagin generator built in PHP Laravel framework
 
 PHP version 5.5.9 or newer is recommended.
 
